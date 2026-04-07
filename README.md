@@ -52,9 +52,25 @@ That same mindset naturally carried over into software engineering.
 <div align="center">
 
 <img src="https://img.shields.io/badge/Minecraft%20Automation-2b2b2b?style=for-the-badge&logo=minecraft&logoColor=white" />
-<img src="https://img.shields.io/badge/Mekanism-8CCF00?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/Psi-2b2b2b?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Create-8CCF00?style=for-the-badge&logoColor=black" />
+
+<br><br>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./mekanism_icon.png" alt="Mekanism icon" width="72" /><br>
+      <strong>Mekanism</strong>
+    </td>
+    <td align="center">
+      <img src="./psi_icon.webp" alt="Psi icon" width="72" /><br>
+      <strong>Psi</strong>
+    </td>
+    <td align="center">
+      <img src="./create_icon.jpg" alt="Create icon" width="72" /><br>
+      <strong>Create</strong>
+    </td>
+  </tr>
+</table>
 
 </div>
 
