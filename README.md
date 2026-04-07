@@ -1,23 +1,23 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=%C3%8Dcaro+Manoel+de+Lima+Santana;Software+Engineer;Automation+%2B+Machine+Learning+%2B+AI+Agents)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=980&lines=%C3%8Dcaro+Manoel+de+Lima+Santana;Software+Engineer;Automation+%2B+Machine+Learning+%2B+AI+Agents)
 
 <br>
 
 <img src="https://img.shields.io/badge/BRAZIL-2b2b2b?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/ENGLISH-8CCF00?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/FLUENT%20ENGLISH-8CCF00?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/10%2B%20YEARS%20BUILDING-2b2b2b?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/AUTOMATION%20FIRST-8CCF00?style=for-the-badge&logoColor=black" />
 
 <br><br>
 
 <h1>
-I build software with focus on automation, performance and real-world usability.
+I build software focused on automation, performance, and practical solutions.
 </h1>
 
 <h3>
-Brazilian developer, fluent in English, working across backend, frontend, databases,
-machine learning and AI agents for over 10 years.
+Brazilian software engineer, fluent in English, with 10+ years of experience across backend, frontend,
+databases, machine learning, and AI agents.
 </h3>
 
 </div>
@@ -26,19 +26,37 @@ machine learning and AI agents for over 10 years.
 
 ## About me
 
-Meu nome é **Ícaro Manoel de Lima Santana**.  
-Sou desenvolvedor há mais de **10 anos** e gosto de construir coisas que realmente resolvem problema.
+My name is **Ícaro Manoel de Lima Santana**.
 
-Curto trabalhar desde a base do sistema até a interface, mas o que mais me chama atenção é tudo que envolve:
+I have been building software for over **10 years**, and what keeps me interested in this field is the same thing that got me into it in the first place: the idea that systems can be improved, optimized, and made smarter.
 
-- automação
-- machine learning
-- agentes de IA
-- performance
-- arquitetura prática
-- ferramentas que economizam tempo de verdade
+I enjoy working across the full development process, from backend structure and business logic to frontend implementation and tooling. What I usually care about most is building things that are actually useful, reliable, and efficient in the real world.
 
-No geral, eu sempre tento deixar o processo mais inteligente, mais limpo e mais eficiente.
+A big part of the way I think about software comes from my obsession with automation.  
+I genuinely enjoy looking at a repetitive task and asking:
+
+> how can this be faster, cleaner, and require less manual effort?
+
+That mindset is one of the reasons I became so interested in **machine learning** and **AI agents**. I like systems that can adapt, assist, and remove friction.
+
+---
+
+## Where my interest in automation started
+
+Oddly enough, a lot of my love for automation came from playing **modded Minecraft**.
+
+Mods like **Mekanism**, **Psi**, and **Create** made me obsessed with the idea of building processes, connecting systems, reducing manual work, and turning messy workflows into something elegant and efficient.
+
+That same mindset naturally carried over into software engineering.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Minecraft%20Automation-2b2b2b?style=for-the-badge&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/Mekanism-8CCF00?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Psi-2b2b2b?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Create-8CCF00?style=for-the-badge&logoColor=black" />
+
+</div>
 
 ---
 
@@ -59,7 +77,7 @@ No geral, eu sempre tento deixar o processo mais inteligente, mais limpo e mais 
 
 ### Tools / IDEs
 <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode" />
-<img src="https://img.shields.io/badge/Roblox%20Studio-2b2b2b?style=for-the-badge&logo=robloxstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/Roblox%20Studio-2b2b2b?style=for-the-badge&logoColor=white" />
 
 <br><br>
 
@@ -73,23 +91,56 @@ No geral, eu sempre tento deixar o processo mais inteligente, mais limpo e mais 
 ## What I like building
 
 - web applications
-- internal tools
-- automation flows
 - backend services
+- internal tools
 - dashboards
-- AI-powered solutions
+- automation pipelines
+- AI-powered systems
 - developer tooling
-- systems that remove repetitive work
+- practical products that remove repetitive work
+
+---
+
+## What I care about in software
+
+I like software that feels intentional.
+
+Not just code that works, but code that is maintainable, readable, scalable, and built with a clear purpose behind it.
+
+A few things I naturally pay attention to:
+
+- reducing unnecessary complexity
+- improving workflow efficiency
+- writing maintainable systems
+- designing clean developer experiences
+- building tools that save time
+- turning manual processes into automated ones
+
+---
+
+## Current interests
+
+Right now, the areas that interest me the most are:
+
+- **automation**
+- **machine learning**
+- **AI agents**
+- **system design**
+- **developer productivity**
+- **smart tooling**
+
+These are the kinds of things I like exploring, building, and improving over time.
 
 ---
 
 ## A bit of how I think
 
-I like software that is simple to use, easy to maintain and built with purpose.
+I tend to approach development with a very straightforward mindset:
 
-If something is repetitive, I probably want to automate it.  
-If something is slow, I probably want to optimize it.  
-If something is manual, I probably want to redesign the flow.
+If something is repetitive, it should probably be automated.  
+If something is slow, it should probably be optimized.  
+If something is confusing, it should probably be redesigned.  
+If something can be simpler, it usually should be.
 
 ---
 
@@ -97,7 +148,7 @@ If something is manual, I probably want to redesign the flow.
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/icaroman0el">
   <img src="https://img.shields.io/badge/GITHUB-2b2b2b?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
