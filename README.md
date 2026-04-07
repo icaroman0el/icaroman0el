@@ -1,110 +1,104 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Banner em estilo minecraft" width="100%" />
-</div>
 
-<div align="center">
-  <img src="./assets/blink.gif" width="22" alt="pixel" />
-  <strong>Engenheiro de Software • 10 anos de experiência</strong>
-  <img src="./assets/blink.gif" width="22" alt="pixel" />
-</div>
-
-<p align="center">
-  Construindo sistemas, automatizando processos e transformando ideias em produtos com organização, performance e criatividade.
-</p>
-
----
-
-## ⛏️ Sobre mim
-
-Sou **Engenheiro de Software** e desenvolvo há **10 anos**.  
-Gosto de criar soluções bem estruturadas, práticas e escaláveis — principalmente quando posso **automatizar tudo o que for possível**.
-
-Além do código, curto bastante o universo dos games, com destaque para:
-- **Final Fantasy XIV**
-- **Monster Hunter Series**
-
----
-
-## 🧱 Minha stack
-
-<table>
-  <tr>
-    <td><strong>Front-end</strong></td>
-    <td>HTML, CSS, JavaScript, TypeScript, Next.js</td>
-  </tr>
-  <tr>
-    <td><strong>Back-end</strong></td>
-    <td>Java, C#, Lua, Luau</td>
-  </tr>
-  <tr>
-    <td><strong>Banco de dados / BaaS</strong></td>
-    <td>SQL, Supabase</td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Ferramentas do inventário
-
-<div align="center">
-  <img src="./assets/Ferramentas.png" width="88" alt="Ferramentas pixeladas" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/Ferramenta2.png" width="88" alt="Ferramentas pixeladas alternativas" />
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=%C3%8Dcaro+Manoel+de+Lima+Santana;Software+Engineer;Automation+%2B+Machine+Learning+%2B+AI+Agents)
 
 <br>
 
-<table>
-  <tr>
-    <td><strong>Editor / IDE</strong></td>
-    <td>Visual, IntelliJ</td>
-  </tr>
-  <tr>
-    <td><strong>Criação / Modelagem</strong></td>
-    <td>Blender</td>
-  </tr>
-  <tr>
-    <td><strong>Foco</strong></td>
-    <td>Automação, organização de fluxo, desenvolvimento de sistemas e interfaces funcionais</td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/BRAZIL-2b2b2b?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ENGLISH-8CCF00?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/10%2B%20YEARS%20BUILDING-2b2b2b?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AUTOMATION%20FIRST-8CCF00?style=for-the-badge&logoColor=black" />
+
+<br><br>
+
+<h1>
+I build software with focus on automation, performance and real-world usability.
+</h1>
+
+<h3>
+Brazilian developer, fluent in English, working across backend, frontend, databases,
+machine learning and AI agents for over 10 years.
+</h3>
+
+</div>
 
 ---
 
-## ⚙️ O que eu gosto de construir
+## About me
 
-- Sistemas bem organizados e fáceis de manter
-- Interfaces funcionais com boa experiência de uso
-- Processos automatizados para economizar tempo e reduzir trabalho repetitivo
-- Soluções que unem lógica, performance e praticidade
+Meu nome é **Ícaro Manoel de Lima Santana**.  
+Sou desenvolvedor há mais de **10 anos** e gosto de construir coisas que realmente resolvem problema.
 
----
+Curto trabalhar desde a base do sistema até a interface, mas o que mais me chama atenção é tudo que envolve:
 
-## 🎮 Fora do código
+- automação
+- machine learning
+- agentes de IA
+- performance
+- arquitetura prática
+- ferramentas que economizam tempo de verdade
 
-Quando não estou desenvolvendo, provavelmente estou:
-- caçando monstros,
-- explorando mundos,
-- otimizando alguma build,
-- ou pensando em alguma forma melhor de automatizar tarefas.
-
----
-
-## 🌌 Filosofia de desenvolvimento
-
-> Trabalhar de forma inteligente é melhor do que trabalhar em dobro.  
-> Sempre que dá para automatizar, eu automatizo.
+No geral, eu sempre tento deixar o processo mais inteligente, mais limpo e mais eficiente.
 
 ---
 
-## 📌 Observação
+## Main stack
 
-Este README foi montado em um estilo inspirado em **Minecraft / pixel art**, usando sprites locais para dar uma identidade visual mais temática ao perfil.
+<div align="center">
 
-Se quiser, você pode complementar depois com:
-- links de contato,
-- redes sociais,
-- portfólio,
-- stats do GitHub,
-- projetos em destaque.
+### Languages
+<img src="https://skillicons.dev/icons?i=java,ts,nextjs,cs,cpp,c,ruby,php,lua,html,css" />
 
+<br><br>
+
+### Databases / Backend services
+<img src="https://skillicons.dev/icons?i=supabase,mongodb,firebase" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" height="48" alt="SQL" />
+
+<br><br>
+
+### Tools / IDEs
+<img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode" />
+<img src="https://img.shields.io/badge/Roblox%20Studio-2b2b2b?style=for-the-badge&logo=robloxstudio&logoColor=white" />
+
+<br><br>
+
+### Also work with
+<img src="https://img.shields.io/badge/Luau-8CCF00?style=for-the-badge&logo=roblox&logoColor=black" />
+
+</div>
+
+---
+
+## What I like building
+
+- web applications
+- internal tools
+- automation flows
+- backend services
+- dashboards
+- AI-powered solutions
+- developer tooling
+- systems that remove repetitive work
+
+---
+
+## A bit of how I think
+
+I like software that is simple to use, easy to maintain and built with purpose.
+
+If something is repetitive, I probably want to automate it.  
+If something is slow, I probably want to optimize it.  
+If something is manual, I probably want to redesign the flow.
+
+---
+
+## GitHub
+
+<div align="center">
+
+<a href="https://github.com/SEU_USUARIO">
+  <img src="https://img.shields.io/badge/GITHUB-2b2b2b?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
