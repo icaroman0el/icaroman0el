@@ -26,7 +26,7 @@ databases, machine learning, and AI agents.
 
 ## About me
 
-My name is **Ícaro Manoel de Lima Santana**.
+My name is **Ícaro**.
 
 I have been building software for over **10 years**, and what keeps me interested in this field is the same thing that got me into it in the first place: the idea that systems can be improved, optimized, and made smarter.
 
